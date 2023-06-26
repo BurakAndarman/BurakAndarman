@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **burak.andarmanba@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xIkFn4Gpsfj-210SVv5iPLL02eNyhUWU/view?usp=sharing](https://drive.google.com/file/d/1xIkFn4Gpsfj-210SVv5iPLL02eNyhUWU/view?usp=sharing)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1xIkFn4Gpsfj-210SVv5iPLL02eNyhUWU/view?usp=sharing">**by clicking here**<a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
