@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **burak.andarmanba@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1xIkFn4Gpsfj-210SVv5iPLL02eNyhUWU/view?usp=sharing">**by clicking here**</a>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/burakandarman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="burakandarman" height="30" width="40" /></a>
