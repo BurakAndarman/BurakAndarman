@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Burak</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=burakandarman&label=Profile%20views&color=0e75b6&style=flat" alt="burakandarman" /> </p>
-
 - 🔭 I’m currently working on **web and mobile application projects**
 
 - 🌱 I’m currently learning **Backend Development and Deep Learning**
